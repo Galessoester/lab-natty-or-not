@@ -11,4 +11,4 @@ ChatGPT para criação do roteiro e D-ID para gerar o avatar e o vídeo.
 Primeiro pedi ao ChatGPT por uma ideia de video que fosse criativa e engajadora. Criei uma conta do D-ID e selecionei uma imagem minha para criar meu avatar. Segui os passos para a criação do vídeo e ***voilà***✨
 
 ## 🚀 Resultados
-O resultado está [aqui]()
+O resultado estará disponível em breve!
